@@ -30,5 +30,11 @@
     <ClCompile Include="주사위 세개.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="별찍기 반대.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자싸이클.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
